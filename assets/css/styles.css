@@ -558,4 +558,10 @@ img{
     .home__container {
         height: 640px;
     }
+  
+}
+
+.menu__explore-more {
+    text-align: center;
+    margin-top: 2rem;
 }
